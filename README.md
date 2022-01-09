@@ -1,4 +1,7 @@
 # Shopping_Cart
+![image](https://github.com/AlisonLeng/Shopping_Cart/blob/main/public/screen_shot.png)
+
+
 
 ## 功能 
 * 電腦版 / 手機版 RWD
